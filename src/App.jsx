@@ -12,10 +12,10 @@ function App() {
         <button className="width-[55px] bg-stone-600 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
           +/-
         </button>
-        <button className="width-[55px] bg-stone-600 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
+        <button className="width-[55px]  bg-stone-600 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
           %
         </button>
-        <button className="width-[55px] bg-amber-500 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
+        <button className="width-[55px] text-white bg-amber-500 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
           ÷
         </button>
         <button className="width-[55px] text-white hover:bg-slate-300  bg-neutral-900 rounded-full h-[55px] text-lg font-bold">
@@ -27,7 +27,7 @@ function App() {
         <button className="width-[55px] text-white hover:bg-slate-300  bg-neutral-900 rounded-full h-[55px] text-lg font-bold">
           9
         </button>
-        <button className="width-[55px] bg-amber-500 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
+        <button className="width-[55px] text-white bg-amber-500 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
           x
         </button>
         <button className="width-[55px] text-white hover:bg-slate-300   bg-neutral-900 rounded-full h-[55px] text-lg font-bold">
@@ -39,7 +39,7 @@ function App() {
         <button className="width-[55px] text-white hover:bg-slate-300  bg-neutral-900 rounded-full h-[55px] text-lg font-bold">
           6
         </button>
-        <button className="width-[55px] bg-amber-500 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
+        <button className="width-[55px] text-white bg-amber-500 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
           -
         </button>
         <button className="width-[55px] text-white hover:bg-slate-300  bg-neutral-900 rounded-full h-[55px] text-lg font-bold">
@@ -51,16 +51,16 @@ function App() {
         <button className="width-[55px] text-white hover:bg-slate-300  bg-neutral-900 rounded-full h-[55px] text-lg font-bold">
           3
         </button>
-        <button className="width-[55px] bg-amber-500 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
+        <button className="width-[55px] text-white bg-amber-500 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
           +
         </button>
         <button className="bg-neutral-900 text-white hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold col-span-2">
           0
         </button>
-        <button className="width-[55px] bg-neutral-900 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
+        <button className="width-[55px] text-white bg-neutral-900 hover:bg-slate-300 rounded-full h-[55px] text-lg font-bold">
           .
         </button>
-        <button className="width-[55px] bg-amber-500 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
+        <button className="width-[55px] text-white bg-amber-500 hover:bg-slate-300  rounded-full h-[55px] text-lg font-bold">
           =
         </button>
       </div>
